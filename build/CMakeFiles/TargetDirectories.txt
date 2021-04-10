@@ -1,0 +1,3 @@
+C:/Users/79067/geekbrains/cpp_lesson 3/build/CMakeFiles/rebuild_cache.dir
+C:/Users/79067/geekbrains/cpp_lesson 3/build/CMakeFiles/test.dir
+C:/Users/79067/geekbrains/cpp_lesson 3/build/CMakeFiles/edit_cache.dir

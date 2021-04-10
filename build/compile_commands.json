@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/79067/geekbrains/cpp_lesson 3/build",
+  "command": "\"C:/Program Files/LLVM/bin/clang++.exe\"   -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles/test.dir/main.cpp.obj -c \"C:/Users/79067/geekbrains/cpp_lesson 3/main.cpp\"",
+  "file": "C:/Users/79067/geekbrains/cpp_lesson 3/main.cpp"
+},
+{
+  "directory": "C:/Users/79067/geekbrains/cpp_lesson 3/build",
+  "command": "\"C:/Program Files/LLVM/bin/clang++.exe\"   -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles/test.dir/task1.cpp.obj -c \"C:/Users/79067/geekbrains/cpp_lesson 3/task1.cpp\"",
+  "file": "C:/Users/79067/geekbrains/cpp_lesson 3/task1.cpp"
+}
+]
